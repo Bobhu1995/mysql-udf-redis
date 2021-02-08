@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc     CMakeFiles/hiredis-test.dir/test.c.o  -o hiredis-test libhiredis.so.1.0.1-dev -Wl,-rpath,/usr/local/bob/mysql2redis/3rd/hiredis 

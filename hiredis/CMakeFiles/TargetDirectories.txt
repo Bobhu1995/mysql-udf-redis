@@ -1,0 +1,12 @@
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/test.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/package.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/hiredis.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/install/local.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/hiredis-test.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/hiredis_static.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/install.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/install/strip.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/list_install_components.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/rebuild_cache.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/package_source.dir
+/usr/local/bob/mysql2redis/3rd/hiredis/CMakeFiles/edit_cache.dir
